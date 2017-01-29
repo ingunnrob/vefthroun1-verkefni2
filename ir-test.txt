@@ -1,2 +1,4 @@
 # vefthroun1-verkefni2
 Verkefni 2 í Vefþróun 1
+Ingunn Róbertsdóttir
+Fyrsta test í GitHub
